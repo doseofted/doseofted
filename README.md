@@ -1,3 +1,5 @@
+![Dose of Ted](./banner.png)
+
 ## About Me
 
 I'm Ted (as in **Dose of Ted**, my username). I'm focused on building high
@@ -6,6 +8,14 @@ lives and business. I'm building out my own frameworks to help other developers,
 building software to help others organize all of their content, and building
 websites for clients so that they can run their business professionally and
 efficiently.
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat)](https://twitter.com/doseofted)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=dribbble&logoColor=fff&style=flat)](https://www.instagram.com/doseofted/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/doseofted/)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=fff&style=flat)](https://dribbble.com/doseofted)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=fff&style=flat)](https://www.youtube.com/@doseofted)
+
+🌎 Find all of my links at [doseofted.com](https://doseofted.com/)
 
 ## Tech / Design Stack
 
@@ -61,13 +71,5 @@ a project in mind, [reach out](https://doseofted.com/) to see if I'm a good fit.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
 ![Penpot](https://img.shields.io/badge/Penpot-000000?logo=penpot&logoColor=fff&style=flat)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=fff&style=flat)
-
-## Social
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat)](https://twitter.com/doseofted)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=dribbble&logoColor=fff&style=flat)](https://www.instagram.com/doseofted/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/doseofted/)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=fff&style=flat)](https://dribbble.com/doseofted)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=fff&style=flat)](https://www.youtube.com/@doseofted)
-
-🌎 Find all of my links at [doseofted.com](https://doseofted.com/)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?logo=adobepremierepro&logoColor=fff&style=flat)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?logo=adobeaftereffects&logoColor=fff&style=flat)
