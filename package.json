@@ -1,0 +1,19 @@
+{
+	"name": "@doseofted/doseofted",
+	"description": "Some information about Ted",
+	"author": {
+		"name": "Ted Klingenberg",
+		"email": "ted@doseofted.com",
+		"url": "https://doseofted.com/"
+	},
+	"version": "0.0.1",
+	"packageManager": "pnpm@7.14.2",
+	"license": "UNLICENSED",
+	"private": true,
+	"scripts": {
+		"format": "prettier --write ."
+	},
+	"devDependencies": {
+		"prettier": "^2.8.1"
+	}
+}
