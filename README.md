@@ -4,10 +4,10 @@
 
 I'm Ted (as in **Dose of Ted**, my username). I'm focused on building high
 quality, well-designed, and accessible tools that help others organize their
-lives and business. I'm building out my own frameworks to help other developers,
-building software to help others organize all of their content, and building
-websites for clients so that they can run their business professionally and
-efficiently.
+lives and businesses. I'm building out my own frameworks to help other
+developers, building software to help others organize all of their content, and
+building websites for clients so that they can run their business professionally
+and efficiently.
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat)](https://twitter.com/doseofted)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=dribbble&logoColor=fff&style=flat)](https://www.instagram.com/doseofted/)
@@ -20,10 +20,10 @@ efficiently.
 ## Tech / Design Stack
 
 I'm familiar with many frameworks, tools, languages, and software. I primarily
-develop with the JavaScript ecosystem, primarily with Vue and TypeScript but am
-familiar with the React ecosystem as well. I design with the Affinity Suite,
-Figma, Blender, and am familiar with many tools in the Adobe Suite. If you have
-a project in mind, [reach out](https://doseofted.com/) to see if I'm a good fit.
+develop within the JavaScript ecosystem, typically with Vue and TypeScript but
+am familiar with the React ecosystem as well. I design with the Affinity Suite,
+Blender, and am familiar with many tools in the Adobe Suite. If you have a
+project in mind, [reach out](https://doseofted.com/) to see if I'm a good fit.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
