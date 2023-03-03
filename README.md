@@ -1,4 +1,4 @@
-![Dose of Ted](./banner.png)
+[![Dose of Ted](./banner.png)](https://doseofted.com/)
 
 ## About Me
 
