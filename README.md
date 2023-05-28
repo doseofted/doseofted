@@ -1,29 +1,19 @@
-[![Dose of Ted](./banner.png)](https://doseofted.com/)
+[![Dose of Ted](./banner.png)](https://doseofted.me/)
 
 ## About Me
 
-I'm Ted (as in **Dose of Ted**, my username). I am focused on building high
-quality, well-designed, and accessible tools that help others organize their
-lives and businesses. I'm building out my own frameworks to help other
-developers, building software to help others organize all of their content, and
-building websites for clients so that they can run their businesses
-professionally and efficiently.
+I'm Ted (as in **Dose of Ted**, my alias online) and I develop websites and apps with a long list of libraries, tools, and languages. I primarily work in TypeScript today and aim to develop applications that work well and last.
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat)](https://twitter.com/doseofted)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=dribbble&logoColor=fff&style=flat)](https://www.instagram.com/doseofted/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/doseofted/)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=fff&style=flat)](https://dribbble.com/doseofted)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=fff&style=flat)](https://www.youtube.com/@doseofted)
 
-🌎 Find all of my links at [doseofted.com](https://doseofted.com/)
+🌎 Find all of my links at [doseofted.me](https://doseofted.me/)
 
 ## Tech / App Stack
 
-I'm familiar with many frameworks and software. I primarily develop within the
-JavaScript/TypeScript ecosystem, using frameworks like Vue but I am also
-familiar with React. I design with the Affinity Suite, Blender, and have
-experience in the Adobe Suite. If you have a project in mind,
-[reach out](https://doseofted.com/) to see if I'm a good fit.
+I'm familiar with a lot of tech. I've developed websites using all of the major frontend frameworks, worked in JS/PHP frameworks in the backend, written native apps in Swift/Java/C# (only when required), and worked with a variety of tools across platforms. I won't list everything but I'll list some of my favorite tools (or at least the ones that have fancy icons):
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
