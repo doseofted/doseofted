@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Ted (as in **Dose of Ted**, my alias online) and I develop websites and apps with a long list of libraries, tools, and languages. I primarily work in TypeScript today and aim to develop applications that work well and last.
+I'm Ted (as in **Dose of Ted**, my alias online) and I develop websites and apps with an extensive list of libraries and tools. I primarily work in TypeScript today and aim to develop applications that work well and last.
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat)](https://twitter.com/doseofted)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=dribbble&logoColor=fff&style=flat)](https://www.instagram.com/doseofted/)
@@ -13,7 +13,7 @@ I'm Ted (as in **Dose of Ted**, my alias online) and I develop websites and apps
 
 ## Tech / App Stack
 
-I'm familiar with a lot of tech. I've developed websites using all of the major frontend frameworks, worked in JS/PHP frameworks in the backend, written native apps in Swift/Java/C# (only when required), and worked with a variety of tools across platforms. I won't list everything but I'll list some of my favorite tools (or at least the ones that have fancy icons):
+I'm familiar with a lot of tech. I've developed websites using all of the major frontend frameworks, worked in JS/PHP frameworks in the backend, written native apps in Swift/Java/C# (where required), and worked with a variety of tools across platforms. I won't list everything but I'll list some of my favorite tools (or at least the ones that have fancy icons):
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=flat)
