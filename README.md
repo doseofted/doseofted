@@ -2,8 +2,9 @@
 
 ## About Me
 
-I'm Ted (as in **Dose of Ted**, my alias online) and I develop websites and apps with an extensive list of libraries and tools. I primarily work in TypeScript today and aim to develop applications that work well and last.
+I'm Ted (as in **Dose of Ted**, my username) and I develop websites and apps with an extensive list of libraries and tools. I primarily work in TypeScript today and aim to develop applications that work well and last.
 
+[![Threads](https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=fff&style=flat)](https://www.threads.net/@doseofted)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat)](https://twitter.com/doseofted)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=dribbble&logoColor=fff&style=flat)](https://www.instagram.com/doseofted/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/doseofted/)
@@ -24,6 +25,7 @@ I'm familiar with a lot of tech. I've developed websites using all of the major 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=fff&style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?logo=caddy&logoColor=fff&style=flat)
 ![Task](https://img.shields.io/badge/Task-29BEB0?logo=task&logoColor=fff&style=flat)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff&style=flat)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=fff&style=flat)
