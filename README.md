@@ -48,7 +48,6 @@ I'm familiar with a lot of tech. I've developed websites using all of the major 
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=flat)
 ![Ghost](https://img.shields.io/badge/Ghost-15171A?logo=ghost&logoColor=fff&style=flat)
 ![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?logo=strapi&logoColor=fff&style=flat)
-![Directus](https://img.shields.io/badge/Directus-263238?logo=directus&logoColor=fff&style=flat)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)
